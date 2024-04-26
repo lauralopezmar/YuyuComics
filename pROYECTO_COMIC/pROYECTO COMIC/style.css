@@ -1,0 +1,39 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif
+}
+.fill {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.pare {
+    display: flex;
+    flex-wrap: wrap;
+    height: 300vh;
+    margin: auto; margin-top: auto;
+}
+.net {
+    display: flex;
+    flex-wrap: wrap;
+}
+.col {
+    flex-direction: column;
+}
+.row {flex-direction: row;}
+.xxs {flex: 1;}
+.xs {flex: 2;}
+.s {flex: 3;}
+.l {flex: 4;}
+.x {flex: 5;}
+.xl {flex: 6;}
+.xxl {flex: 7;}
+.xxxl {flex: 8;}
+body  {background-color: black;}
+p {color: white;}
+.fotologo {height: 7vh; width: 40%; margin: auto;}
+.menu {display: flex; flex-direction: row; margin:auto; justify-content: space-between; flex: 1;padding-right:6vw; padding-left: 6vw; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif}
+.menu2 {justify-content: center;}
+nav {height: 100%;}
+a {text-decoration:none; color: white;}
+.grande {width: 80%;}
+.imagen {height: 80%; width: 100%;}
